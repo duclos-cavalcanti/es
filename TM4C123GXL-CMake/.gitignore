@@ -1,0 +1,10 @@
+build/
+build/*
+
+bin/
+bin/*
+
+.cache/
+.cache/*
+
+compile_commands.json
